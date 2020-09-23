@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 아래 주소 활용
 
+=======
+아래 주소 활용
+
+>>>>>>> 5b073a6876406a128ab568cb8d1fa859c0476ef9
 https://nbviewer.jupyter.org/github/yemin-i/tavel_network_analysis/blob/master/network_analysis_and_similarity.ipynb
